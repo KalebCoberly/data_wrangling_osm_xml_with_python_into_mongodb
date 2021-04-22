@@ -1,4 +1,4 @@
-# README
+# Data Wrangling Class Project
 
 This is my submission for Udacity's Data Wrangling course as part of the Data Analyst nanodegree, which is part of the Western Governor University Bachelor of Science in Data Management and Data Analytics.
 
