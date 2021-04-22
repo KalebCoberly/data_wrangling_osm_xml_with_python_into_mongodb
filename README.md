@@ -6,7 +6,7 @@ Using Python, I audited and cleaned an OpenStreetMap XML extract, reshaped it in
 
 See writeup.html for the report. See main.ipynb for the main script.
 
-## Contents:
+## Files:
 
 - clean_and_write.py: Module to clean the XML (greater_bellingham.osm) and write it to bham.json
 
