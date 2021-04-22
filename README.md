@@ -4,7 +4,7 @@ This is my submission for Udacity's Data Wrangling course as part of the Data An
 
 Using Python, I audited and cleaned an OpenStreetMap XML extract, reshaped it into a JSON file, loaded it into MongoDB, and further queried and audited in MondoDB using PyMongo.
 
-See writeup.html for the report. See submission.ipynb for the main script.
+See writeup.html for the report. See main.ipynb for the main script.
 
 ## Contents:
 
@@ -18,9 +18,9 @@ See writeup.html for the report. See submission.ipynb for the main script.
 
 - README.md: This.
 
-- submission.ipynb: Verbosely annotated main script. Running from start to finish will repeat the full process of cleaning, writing, and loading. However, you will have to download the OSM extract yourself using the coordinates provided. Also, I discussed my auditing process with examples, but I didn't recreate it.
+- main.ipynb: Verbosely annotated main script. Running from start to finish will repeat the full process of cleaning, writing, and loading. However, you will have to download the OSM extract yourself using the coordinates provided. Also, I discussed my auditing process with examples, but I didn't recreate it.
 
-- writeup.html: Shortened report of the process. Abridged submission.ipynb.
+- writeup.html: Shortened report of the process. Abridged main.ipynb.
 
 ## References and resources:
 
