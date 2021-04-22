@@ -18,7 +18,7 @@ See writeup.html for the report. See submission.ipynb for the main script.
 
 - README.md: This.
 
-- submission.ipynb: Verbosely annotated script. Running from start to finish will repeat the full process of cleaning, writing, and loading. However, you will have to download the OSM extract yourself using the coordinates provided. Also, I discussed my auditing process with examples, but I didn't recreate it.
+- submission.ipynb: Verbosely annotated main script. Running from start to finish will repeat the full process of cleaning, writing, and loading. However, you will have to download the OSM extract yourself using the coordinates provided. Also, I discussed my auditing process with examples, but I didn't recreate it.
 
 - writeup.html: Shortened report of the process. Abridged submission.ipynb.
 
